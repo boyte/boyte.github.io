@@ -1,0 +1,1 @@
+import{j as e}from"./jsx-runtime.D_zvdyIk.js";const o=()=>{const t=new Date().getFullYear();return e.jsx("footer",{className:"border-t py-6 mt-auto",children:e.jsx("div",{className:"container",children:e.jsxs("p",{className:"text-xs text-muted-foreground text-center",children:["© ",t," Cody Boyte"]})})})};export{o as default};
