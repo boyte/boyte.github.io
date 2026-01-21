@@ -1,1 +1,0 @@
-const c={DISCORD:"https://www.shadcnblocks.com/",GITHUB:"https://www.shadcnblocks.com/",TWITTER:"https://www.shadcnblocks.com/",LINKEDIN:"https://www.shadcnblocks.com/",EMAIL:"mailto:team@scalar.com",GITHUB_REPO:"https://www.shadcnblocks.com/"};export{c as E};
